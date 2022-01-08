@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\bin\Debug\netcoreapp3.1\Расчет массы заготовки.exe
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\bin\Debug\netcoreapp3.1\Расчет массы заготовки.deps.json
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\bin\Debug\netcoreapp3.1\Расчет массы заготовки.runtimeconfig.json
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\bin\Debug\netcoreapp3.1\Расчет массы заготовки.runtimeconfig.dev.json
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\bin\Debug\netcoreapp3.1\Расчет массы заготовки.dll
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\bin\Debug\netcoreapp3.1\Расчет массы заготовки.pdb
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\obj\Debug\netcoreapp3.1\Расчет массы заготовки.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\obj\Debug\netcoreapp3.1\Расчет массы заготовки.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\obj\Debug\netcoreapp3.1\Расчет массы заготовки.AssemblyInfo.cs
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\obj\Debug\netcoreapp3.1\Расчет массы заготовки.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\obj\Debug\netcoreapp3.1\Расчет массы заготовки.dll
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\obj\Debug\netcoreapp3.1\Расчет массы заготовки.pdb
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\obj\Debug\netcoreapp3.1\Расчет массы заготовки.genruntimeconfig.cache
+C:\Users\User\source\repos\Расчет массы заготовки\Расчет массы заготовки\obj\Debug\netcoreapp3.1\Расчет массы заготовки.GeneratedMSBuildEditorConfig.editorconfig
